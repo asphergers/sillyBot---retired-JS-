@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "node-inspirobot": "^1.0.0",
+    "pg": "^8.7.3",
+    "ps": "^1.0.0",
+    "psql": "^0.0.1",
+    "ytdl-core": "^4.11.0"
+  }
+}
